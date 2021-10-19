@@ -1,4 +1,5 @@
 # bertal
-formation java JEE
-.servlet
-.xml
+---
+* formation java JEE
+
+
